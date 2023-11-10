@@ -21,7 +21,7 @@ there may be loops, weights may be different on all edges, only non-zero connect
 
 - s21_graph.a: Builds a static library containing the graph.
 
-- s21_graph_algorithms.a: Builds a static library containing the graph algrotithms.
+- s21_graph_algorithms.a: Builds a static library containing the graph algorithms.
 
 ## Examples
 
